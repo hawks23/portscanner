@@ -9,4 +9,5 @@ Syntax :
 
 git clone https://github.com/hawks23/portscanner.git
 cd portscanner
+chmod +x scanner.py
 sudo python3 scanner.py <ip_addressToScan>
